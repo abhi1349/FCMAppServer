@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FcmWithAppServer</string>
+    <string name="FCM_PREF">aadoo.system.com.fcmwithappserver.fcm_pref</string>
+    <string name="FCM_TOKEN">aadoo.system.com.fcmwithappserver.fcm_token</string>
+</resources>
